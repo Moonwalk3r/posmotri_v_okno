@@ -43,7 +43,7 @@ ol {
   flex-direction: row;
   gap: 30px;
   align-items: end;
-  padding: 266px 30px;
+  padding: 133px 30px;
 }
 
 .visually-hidden {
@@ -170,6 +170,7 @@ ol {
 
 .search-form__submit-button {
   align-self: end;
+  height: 34px;
   inline-size: 194px;
 }
 
@@ -239,6 +240,7 @@ ol {
   display: flex;
   flex-direction: column;
   gap: 6px;
+  flex-grow: 1;
 }
 
 .content__video-card-title {
@@ -269,6 +271,7 @@ ol {
 
 .more-button {
   inline-size: 399px;
+  height: 34px;
   margin: 3px;
 }
 
